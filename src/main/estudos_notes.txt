@@ -1,0 +1,7 @@
+@JsonAlias é um apelido da variavel de acordo com o API
+
+JSON é serializado = objetos Java para JSON
+    desserializado = JSON para objetos Java
+
+@JsonIgnoreProperties(ignoreUnknown = true)
+Ignorar no json tudo o que não for encontrado

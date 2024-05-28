@@ -5,3 +5,6 @@ JSON é serializado = objetos Java para JSON
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 Ignorar no json tudo o que não for encontrado
+
+ctrl+barra para comentar várias linhas selecionadas
+ctrl+alt+O retira os imports sem uso
